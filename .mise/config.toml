@@ -21,10 +21,6 @@ run = "go mod download"
 description = "Build application"
 run = "go build -trimpath -ldflags '-X main.version=dev' -o jamf-recovery-lock ./cmd/jamf-recovery-lock"
 
-[tasks.notices]
-description = "Collect dependency licenses and notices"
-run = "go-licenses save ./cmd/jamf-recovery-lock --save_path third_party_licenses --ignore github.com/woodleighschool/jamf-recovery-lock --force"
-
 [tasks.tidy]
 description = "Tidy the Go module"
 run = "go mod tidy"
