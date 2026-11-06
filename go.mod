@@ -4,7 +4,7 @@ go 1.27.0
 
 require (
 	github.com/1password/onepassword-sdk-go v0.4.1
-	github.com/caarlos0/env/v11 v11.4.1
+	github.com/caarlos0/env/v11 v11.4.2
 	github.com/deploymenttheory/go-sdk-jamfpro-v2 v0.17.0
 	github.com/google/uuid v1.6.0
 	github.com/jackc/pgx/v5 v5.12.0
