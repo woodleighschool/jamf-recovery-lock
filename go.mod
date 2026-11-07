@@ -8,7 +8,7 @@ require (
 	github.com/deploymenttheory/go-sdk-jamfpro-v2 v0.17.0
 	github.com/google/uuid v1.6.0
 	github.com/jackc/pgx/v5 v5.12.0
-	github.com/spf13/pflag v1.0.10
+	github.com/spf13/pflag v1.1.0
 	go.uber.org/zap v1.28.0
 	resty.dev/v3 v3.0.0-rc.4
 )
