@@ -1,5 +1,14 @@
 # Changelog
 
+## [3.1.2](https://github.com/woodleighschool/jamf-recovery-lock/compare/v3.1.1...v3.1.2) (2026-11-11)
+
+
+### Bug Fixes
+
+* **go:** update module github.com/caarlos0/env/v11 (v11.4.1 → v11.4.2) ([#90](https://github.com/woodleighschool/jamf-recovery-lock/issues/90)) ([29676ef](https://github.com/woodleighschool/jamf-recovery-lock/commit/29676ef204bd533637e1c58b3664bc1b1c2f789b))
+* **go:** update module github.com/jackc/pgx/v5 (v5.11.0 → v5.12.0) ([#86](https://github.com/woodleighschool/jamf-recovery-lock/issues/86)) ([9d63a9a](https://github.com/woodleighschool/jamf-recovery-lock/commit/9d63a9a9cd570cc555d1c62dcbe8bb514cc99256))
+* **go:** update module github.com/spf13/pflag (v1.0.10 → v1.1.0) ([#92](https://github.com/woodleighschool/jamf-recovery-lock/issues/92)) ([210b4f3](https://github.com/woodleighschool/jamf-recovery-lock/commit/210b4f3653bb5274268169c1113537d1ef66d326))
+
 ## [3.1.1](https://github.com/woodleighschool/jamf-recovery-lock/compare/v3.1.0...v3.1.1) (2026-10-23)
 
 
