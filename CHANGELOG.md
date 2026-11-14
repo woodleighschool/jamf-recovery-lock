@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.3](https://github.com/woodleighschool/jamf-recovery-lock/compare/v3.1.2...v3.1.3) (2026-11-14)
+
+
+### Bug Fixes
+
+* **go:** update module github.com/jackc/pgx/v5 (v5.12.0 → v5.13.0) ([#96](https://github.com/woodleighschool/jamf-recovery-lock/issues/96)) ([f932b89](https://github.com/woodleighschool/jamf-recovery-lock/commit/f932b892ddce483f499fba6fa116bec1dc92edea))
+
 ## [3.1.2](https://github.com/woodleighschool/jamf-recovery-lock/compare/v3.1.1...v3.1.2) (2026-11-11)
 
 
