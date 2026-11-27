@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.1.3](https://github.com/woodleighschool/jamf-recovery-lock/compare/v3.1.2...v3.1.3) (2026-11-27)
+
+
+### Bug Fixes
+
+* **go:** update module github.com/deploymenttheory/go-sdk-jamfpro-v2 (v0.17.0 → v0.18.0) ([#105](https://github.com/woodleighschool/jamf-recovery-lock/issues/105)) ([7cf98dc](https://github.com/woodleighschool/jamf-recovery-lock/commit/7cf98dc1a4d22e61cdb38657a41c019f8ce507c5))
+* **go:** update module github.com/jackc/pgx/v5 (v5.12.0 → v5.13.0) ([#96](https://github.com/woodleighschool/jamf-recovery-lock/issues/96)) ([f932b89](https://github.com/woodleighschool/jamf-recovery-lock/commit/f932b892ddce483f499fba6fa116bec1dc92edea))
+
 ## [3.1.2](https://github.com/woodleighschool/jamf-recovery-lock/compare/v3.1.1...v3.1.2) (2026-11-11)
 
 
